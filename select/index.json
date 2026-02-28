@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LOVE ME RIGHT",
+  "base_artist": "EXO",
+  "createdAt": "2026-02-28T05:25:57.169540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If You're Not Gonna Love Me Right",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/01_If_You're_Not_Gonna_Love_Me_Right_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Me Right",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/02_Love_Me_Right_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Me Right - Dance Version",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/03_Love_Me_Right_-_Dance_Version_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Me Right - Single Version",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/04_Love_Me_Right_-_Single_Version_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE ME RIGHT",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/05_LOVE_ME_RIGHT_EXO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Me Right (Oh Sheila)",
+      "artist": "Angel City,Lara McAllen",
+      "has_synced": false,
+      "path": "select/06_Love_Me_Right_(Oh_Sheila)_Angel_City,Lara_McAllen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Me Right (Oh Sheila)",
+      "artist": "Angel City\\Lara McAllen",
+      "has_synced": false,
+      "path": "select/07_Love_Me_Right_(Oh_Sheila)_Angel_City_Lara_McAllen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Me Right (Oh Sheila)",
+      "artist": "Angel City feat. Lara McAllen",
+      "has_synced": false,
+      "path": "select/08_Love_Me_Right_(Oh_Sheila)_Angel_City_feat._Lara_McAllen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Me Right",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/09_Love_Me_Right_EXO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Me Right (Oh Sheila)",
+      "artist": "Angel City",
+      "has_synced": false,
+      "path": "select/10_Love_Me_Right_(Oh_Sheila)_Angel_City.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Me Right",
+      "artist": "Casey Donahew Band",
+      "has_synced": false,
+      "path": "select/11_Love_Me_Right_Casey_Donahew_Band.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE ME RIGHT - Chinese Version",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/12_LOVE_ME_RIGHT_-_Chinese_Version_EXO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LOVE ME RIGHT (漫遊宇宙)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/13_LOVE_ME_RIGHT_(漫遊宇宙)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Me Right 〜romantic universe〜",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/14_Love_Me_Right_〜romantic_universe〜_EXO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Me Right - Romantic Universe",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/15_Love_Me_Right_-_Romantic_Universe_EXO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Me Right",
+      "artist": "EXO",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Me_Right_EXO.txt"
+    }
+  ]
+}
